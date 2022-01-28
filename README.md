@@ -86,4 +86,4 @@
 
 
 
-
+https://github.com/akloster/table-cleaner/blob/master/docs/source/Tutorial.rst
