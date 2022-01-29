@@ -1,6 +1,9 @@
 
 # SkyWater (SKY130) Open Source Program IP Catalog
-# THIS IS A WORK-IN-PROGRESS - heavily updated daily for formatting, competeness and and accuracy
+## THIS IS A WORK-IN-PROGRESS - heavily updated daily for formatting, competeness and and accuracy
+
+- need to add infor from here : (https://docs.google.com/spreadsheets/d/1vGrTLv6UJZvrDGydk8EmSbPcMUQIvuD_4ZWk9SQe2ac/edit?resourcekey=0-j6I1_g5oqcJ22HyAuCtSZw#gid=873253788)
+- Need to consider FuseSoC ... 
 
 # Available Open Source IP
 
